@@ -4,13 +4,21 @@ Link: <a>https://www.kaggle.com/competitions/UBC-OCEAN/overview</a>
 
 ## Overview
 ### What it does
-It does something
+```small_data```: folder smaller resized images of the thumbnails
+
+```src```: folder containing other programs.
+
+```src/generate_small_data```: used to generate the smaller images
+
+```main.ipynb```: initial model, the one presented in class
+
+```project.ipynb```: current model
 
 ### Technologies used
-Tensorflow probably
+
 
 ### Challenges and Future Goals
-To create the thing lol
+
 
 ## Table of Contents
 
@@ -28,7 +36,7 @@ To set up the
 Currently only built by me
 
 ## License
-brokie
+None
 
 ## Notes
 https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1685-x
